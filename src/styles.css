@@ -1,0 +1,24 @@
+.float-right {
+  float: right !important;
+}
+
+.flex-row-start-center {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logo-structure {
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.logo-instituto {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
